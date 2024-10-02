@@ -4,6 +4,14 @@
 
 # ⛰️&nbsp;&nbsp;Treking in Gangwon <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you're not sure, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get recommendations
 
+
+<img width="500" src="![main](https://github.com/user-attachments/assets/cb0f63fe-3879-47d8-b917-833902da541d)">
+
+
+
+
+
+
 </div>
 
 ## Greking 
