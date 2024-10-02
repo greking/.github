@@ -18,7 +18,9 @@
 
 </div>
 
-![main](https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373024675-a16bd2e9-6eba-413e-87b2-a7a727c48b36.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T203624Z&X-Amz-Expires=300&X-Amz-Signature=e7f356383c906289443155f29eb76a627d868bb79c07e9d07ba2f5d757c8bf34&X-Amz-SignedHeaders=host)
+ <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373024675-a16bd2e9-6eba-413e-87b2-a7a727c48b36.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T203624Z&X-Amz-Expires=300&X-Amz-Signature=e7f356383c906289443155f29eb76a627d868bb79c07e9d07ba2f5d757c8bf34&X-Amz-SignedHeaders=host"></td>
+
+
 
 ## 2024 관광데이터 공모전 'Greking'
 
