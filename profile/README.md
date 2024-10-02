@@ -5,7 +5,11 @@
 # ⛰️&nbsp;&nbsp;Treking in Gangwon <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you're not sure, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get recommendations
 
 
-<img width="500" src="![main](https://github.com/user-attachments/assets/cb0f63fe-3879-47d8-b917-833902da541d)">
+
+
+
+
+
 
 
 
@@ -14,9 +18,9 @@
 
 </div>
 
-## Greking 
+![main](https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373024675-a16bd2e9-6eba-413e-87b2-a7a727c48b36.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T203624Z&X-Amz-Expires=300&X-Amz-Signature=e7f356383c906289443155f29eb76a627d868bb79c07e9d07ba2f5d757c8bf34&X-Amz-SignedHeaders=host)
 
-## 2024 관광데이터 공모전
+## 2024 관광데이터 공모전 'Greking'
 
 <br>
 
@@ -50,10 +54,10 @@ BLABLA...
     <th style="text-align:center;">Course Detail</th>
   </tr>
   <tr>
-    <td style="text-align:center;"><img src=""></td>
-    <td style="text-align:center;"><img src=""></td>
-    <td style="text-align:center;"><img src=""></td>
-    <td style="text-align:center;"><img src=""></td>
+    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373027548-1ee350ff-c87d-442a-b570-e012e2d9bf4e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204058Z&X-Amz-Expires=300&X-Amz-Signature=c7423797943e359e569cd20ea0ed3ff6e5759ed2c8c9900448b8adaa6a850264&X-Amz-SignedHeaders=host"></td>
+    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028270-88d7af56-c587-4fb2-8128-b363e991e618.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204317Z&X-Amz-Expires=300&X-Amz-Signature=4bc2ea1e50c1427cf6f8dee203e0c8093c923b016363a96f7ac073ed377c37a1&X-Amz-SignedHeaders=host"></td>
+    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028561-0f32c2da-1a62-46bc-86ac-d16a1c55ebc4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204407Z&X-Amz-Expires=300&X-Amz-Signature=5af7d4b34ee9cb4c2fe21d743b0eb5feca53819c7f4ddb60dd738aeb8de0b5ae&X-Amz-SignedHeaders=host"></td>
+    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028725-472727c8-03f1-400b-a60c-8d8bb38879db.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204452Z&X-Amz-Expires=300&X-Amz-Signature=23e352855cb0d045bce0ea76e05a6094a9ee7b146888cc750fc7a4f028f02d65&X-Amz-SignedHeaders=host"></td>
   </tr>
 
 
