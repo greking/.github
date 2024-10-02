@@ -18,7 +18,7 @@
 
 </div>
 
- <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373024675-a16bd2e9-6eba-413e-87b2-a7a727c48b36.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T203624Z&X-Amz-Expires=300&X-Amz-Signature=e7f356383c906289443155f29eb76a627d868bb79c07e9d07ba2f5d757c8bf34&X-Amz-SignedHeaders=host"></td>
+ <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373030597-d2e58b05-94a3-4927-a3eb-da4569d694d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T205134Z&X-Amz-Expires=300&X-Amz-Signature=92e533531d1ec232f0d6ffc5819d1646035957966d6852862cc9fce4c06f69ee&X-Amz-SignedHeaders=host"></td>
 
 
 
@@ -56,7 +56,7 @@ BLABLA...
     <th style="text-align:center;">Course Detail</th>
   </tr>
   <tr>
-    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373027548-1ee350ff-c87d-442a-b570-e012e2d9bf4e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204058Z&X-Amz-Expires=300&X-Amz-Signature=c7423797943e359e569cd20ea0ed3ff6e5759ed2c8c9900448b8adaa6a850264&X-Amz-SignedHeaders=host"></td>
+    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373030418-c004bc36-90b8-4a69-9e40-aa9093091553.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T205055Z&X-Amz-Expires=300&X-Amz-Signature=d3e71aa3817bdbba3347a974e64b0f9bb8307e90a397e11a9c5456e0a37d349c&X-Amz-SignedHeaders=host"></td>
     <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028270-88d7af56-c587-4fb2-8128-b363e991e618.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204317Z&X-Amz-Expires=300&X-Amz-Signature=4bc2ea1e50c1427cf6f8dee203e0c8093c923b016363a96f7ac073ed377c37a1&X-Amz-SignedHeaders=host"></td>
     <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028561-0f32c2da-1a62-46bc-86ac-d16a1c55ebc4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204407Z&X-Amz-Expires=300&X-Amz-Signature=5af7d4b34ee9cb4c2fe21d743b0eb5feca53819c7f4ddb60dd738aeb8de0b5ae&X-Amz-SignedHeaders=host"></td>
     <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028725-472727c8-03f1-400b-a60c-8d8bb38879db.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204452Z&X-Amz-Expires=300&X-Amz-Signature=23e352855cb0d045bce0ea76e05a6094a9ee7b146888cc750fc7a4f028f02d65&X-Amz-SignedHeaders=host"></td>
