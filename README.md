@@ -47,7 +47,7 @@ To solve these problems, Greking offers a comprehensive platform with the follow
 
 6. Multi-language Support: The service is designed to be user-friendly for foreign tourists, providing all information in English
 
-### ⛰️&nbsp;&nbsp;Introduction
+### ⛰️&nbsp;&nbsp;Expected effects
 
 1. Increased Tourist Numbers in Gangwon-do: By moving away from Seoul-centric tourism and activating mountain and nature tourism in the Gangwon-do region, we will increase the number of foreign tourists visiting the area.
 
@@ -59,7 +59,6 @@ To solve these problems, Greking offers a comprehensive platform with the follow
 
 
 
-### ⛰️&nbsp;&nbsp;Expected effects
 
 
 
