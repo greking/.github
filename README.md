@@ -8,7 +8,7 @@
 
 ## Greking 
 
-## 2024 관광데이터 공모전
+## 2024 한국관광공사X카카오 관광데이터 활용 공모전
 <img width="737" height="413" alt="Image" src="https://github.com/user-attachments/assets/ec7db0d4-bf97-489a-9cb1-5c789299b60a" />
 
 
@@ -17,13 +17,45 @@
 
 ## 1.&nbsp;&nbsp;Project Introduction and Significance
 
-### ⛰️&nbsp;&nbsp;Background
+### ⛰️&nbsp;&nbsp;Project Introduction
  
 
-BLABLA...
+Greking is a mountain trekking guide service designed for foreign tourists visiting Gangwon-do, South Korea. The name is a portmanteau of "Gangwon-do" and "Trekking". This project was initiated to address the growing interest in "K-hiking" among foreign visitors, a trend highlighted by a significant increase in tourist numbers in Gangwon-do since the COVID-19 pandemic. Our goal is to shift the focus of tourism from traditional beauty and K-pop towards Korea's rich natural landscapes.
+
+
+
+### ⛰️&nbsp;&nbsp;🚧 Problem Statement
+Despite the surge in interest, foreign tourists face significant challenges when planning a hiking trip to Gangwon-do. We identified two key problems:
+
+1. Inadequate Mountain Information: Existing services either provide simple, domestic-focused information or lack detailed, foreigner-specific guides on hiking trails. Foreign tourists often struggle to understand the seasonal conditions and difficulty levels of the trails.
+
+2. Lack of Essential Services: There is a notable absence of services that provide detailed trail information for safe hiking. Additionally, foreign visitors find it burdensome to bring their own hiking equipment or find a place to rent it. Information on local restaurants for post-hike meals is also scarce.
+
+
+### ⛰️&nbsp;&nbsp;✨ Key Features
+To solve these problems, Greking offers a comprehensive platform with the following key features:
+
+1. Customized Course Recommendations: Greking recommends hiking trails based on the user's hiking level and fitness ability.
+
+2. Essential Information for Safe Hiking: The app provides crucial information such as real-time weather forecasts and details on required hiking gear.
+
+3. GPS-based Tracking: Users can track their hiking progress in real-time, including distance, altitude, calories burned, and time elapsed.
+
+4. Supplementary Services: Greking includes features to recommend nearby restaurants for post-hike meals and offers a gear rental service.
+
+5. Community and Reviews: Users can read reviews from other hikers and provide their own feedback on trails and services.
+
+6. Multi-language Support: The service is designed to be user-friendly for foreign tourists, providing all information in English
 
 ### ⛰️&nbsp;&nbsp;Introduction
 
+1. Increased Tourist Numbers in Gangwon-do: By moving away from Seoul-centric tourism and activating mountain and nature tourism in the Gangwon-do region, we will increase the number of foreign tourists visiting the area.
+
+2. Economic Revitalization of Gangwon-do: We will revitalize the local economy by increasing tourist traffic and fostering partnerships with local restaurants and equipment rental companies.
+
+3. Activation of Ecotourism and Nature Tourism: Greking will contribute to the promotion and activation of ecotourism and nature tourism by actively showcasing the beautiful natural environment of Gangwon-do.
+
+4. Increased Brand Awareness and Value of Gangwon-do: By positioning Gangwon-do as a key destination for "K-hiking," we will enhance its brand awareness and value.
 
 
 
@@ -76,7 +108,7 @@ BLABLA...
     <td>
       <strong>😁 Name :</strong> Suhyeon Ahn<br>
       <strong>📧 Email :</strong> saker123456@kookmin.ac.kr<br>
-      <strong>🛠 Role :</strong> Dev leading, app
+      <strong>🛠 Role :</strong> Dev leading
     </td>
     <td>
       <strong>😁 Name :</strong> Minjune Kim<br>
