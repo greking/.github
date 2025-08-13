@@ -33,23 +33,22 @@ BLABLA...
 
 <br>
 
-## 2.&nbsp;&nbsp;Project Function
+## 2.&nbsp;&nbsp;Pages
 
-### 📌&nbsp;&nbsp; Main fuction
+### 📌&nbsp;&nbsp; APP Pages
 
 <table>
-  <tr>
-    <th style="text-align:center;">Main</th>
-    <th style="text-align:center;">Map</th>
-    <th style="text-align:center;">Shop</th>
-    <th style="text-align:center;">Course Detail</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><img src=""></td>
-    <td style="text-align:center;"><img src=""></td>
-    <td style="text-align:center;"><img src=""></td>
-    <td style="text-align:center;"><img src=""></td>
-  </tr>
+<img width="145" height="306" alt="Image" src="https://github.com/user-attachments/assets/000fcae6-b385-4c67-bb74-d03c5c7e4d2e" />
+
+<img width="146" height="305" alt="Image" src="https://github.com/user-attachments/assets/d6bb8f4a-73fc-473f-a5c1-dd18fd2d8873" />
+
+<img width="146" height="309" alt="Image" src="https://github.com/user-attachments/assets/b3a229a3-5026-4b62-9f1e-f256038746a9" />
+
+<img width="146" height="306" alt="Image" src="https://github.com/user-attachments/assets/7878d9c9-e853-4724-9b43-61481ae32bf3" />
+
+<img width="141" height="299" alt="Image" src="https://github.com/user-attachments/assets/9c9d53a7-c288-4a67-9326-51b02333bb4b" />
+
+<img width="146" height="308" alt="Image" src="https://github.com/user-attachments/assets/cac271e1-4a71-42a6-b806-c7bfbf965ecf" />
 
 
 </table>
