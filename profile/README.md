@@ -4,63 +4,82 @@
 
 # ⛰️&nbsp;&nbsp;Treking in Gangwon <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you're not sure, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get recommendations
 
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
- <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373030597-d2e58b05-94a3-4927-a3eb-da4569d694d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T205134Z&X-Amz-Expires=300&X-Amz-Signature=92e533531d1ec232f0d6ffc5819d1646035957966d6852862cc9fce4c06f69ee&X-Amz-SignedHeaders=host"></td>
+## Greking 
+
+## 2024 한국관광공사X카카오 관광데이터 활용 공모전
+<img width="352" height="461" alt="Image" src="https://github.com/user-attachments/assets/5745e79c-8524-4b4d-afc8-858dc99fba20" />
 
 
-
-## 2024 관광데이터 공모전 최우수상 수상작 'Greking'
 
 <br>
 
 ## 1.&nbsp;&nbsp;Project Introduction and Significance
 
-### ⛰️&nbsp;&nbsp;Background
+### ⛰️&nbsp;&nbsp;Project Introduction
  
 
-BLABLA...
-
-### ⛰️&nbsp;&nbsp;Introduction
+Greking is a mountain trekking guide service designed for foreign tourists visiting Gangwon-do, South Korea. The name is a portmanteau of "Gangwon-do" and "Trekking". This project was initiated to address the growing interest in "K-hiking" among foreign visitors, a trend highlighted by a significant increase in tourist numbers in Gangwon-do since the COVID-19 pandemic. Our goal is to shift the focus of tourism from traditional beauty and K-pop towards Korea's rich natural landscapes.
 
 
 
+### ⛰️&nbsp;&nbsp;🚧 Problem Statement
+Despite the surge in interest, foreign tourists face significant challenges when planning a hiking trip to Gangwon-do. We identified two key problems:
+
+1. Inadequate Mountain Information: Existing services either provide simple, domestic-focused information or lack detailed, foreigner-specific guides on hiking trails. Foreign tourists often struggle to understand the seasonal conditions and difficulty levels of the trails.
+
+2. Lack of Essential Services: There is a notable absence of services that provide detailed trail information for safe hiking. Additionally, foreign visitors find it burdensome to bring their own hiking equipment or find a place to rent it. Information on local restaurants for post-hike meals is also scarce.
+
+
+### ⛰️&nbsp;&nbsp;✨ Key Features
+To solve these problems, Greking offers a comprehensive platform with the following key features:
+
+1. Customized Course Recommendations: Greking recommends hiking trails based on the user's hiking level and fitness ability.
+
+2. Essential Information for Safe Hiking: The app provides crucial information such as real-time weather forecasts and details on required hiking gear.
+
+3. GPS-based Tracking: Users can track their hiking progress in real-time, including distance, altitude, calories burned, and time elapsed.
+
+4. Supplementary Services: Greking includes features to recommend nearby restaurants for post-hike meals and offers a gear rental service.
+
+5. Community and Reviews: Users can read reviews from other hikers and provide their own feedback on trails and services.
+
+6. Multi-language Support: The service is designed to be user-friendly for foreign tourists, providing all information in English
 
 ### ⛰️&nbsp;&nbsp;Expected effects
+
+1. Increased Tourist Numbers in Gangwon-do: By moving away from Seoul-centric tourism and activating mountain and nature tourism in the Gangwon-do region, we will increase the number of foreign tourists visiting the area.
+
+2. Economic Revitalization of Gangwon-do: We will revitalize the local economy by increasing tourist traffic and fostering partnerships with local restaurants and equipment rental companies.
+
+3. Activation of Ecotourism and Nature Tourism: Greking will contribute to the promotion and activation of ecotourism and nature tourism by actively showcasing the beautiful natural environment of Gangwon-do.
+
+4. Increased Brand Awareness and Value of Gangwon-do: By positioning Gangwon-do as a key destination for "K-hiking," we will enhance its brand awareness and value.
+
+
+
 
 
 
 <br>
 
-## 2.&nbsp;&nbsp;Project Function
+## 2.&nbsp;&nbsp;Pages
 
-### 📌&nbsp;&nbsp; Main fuction
+### 📌&nbsp;&nbsp; APP Pages
 
 <table>
-  <tr>
-    <th style="text-align:center;">Main</th>
-    <th style="text-align:center;">Map</th>
-    <th style="text-align:center;">Shop</th>
-    <th style="text-align:center;">Course Detail</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373030418-c004bc36-90b8-4a69-9e40-aa9093091553.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T205055Z&X-Amz-Expires=300&X-Amz-Signature=d3e71aa3817bdbba3347a974e64b0f9bb8307e90a397e11a9c5456e0a37d349c&X-Amz-SignedHeaders=host"></td>
-    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028270-88d7af56-c587-4fb2-8128-b363e991e618.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204317Z&X-Amz-Expires=300&X-Amz-Signature=4bc2ea1e50c1427cf6f8dee203e0c8093c923b016363a96f7ac073ed377c37a1&X-Amz-SignedHeaders=host"></td>
-    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028561-0f32c2da-1a62-46bc-86ac-d16a1c55ebc4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204407Z&X-Amz-Expires=300&X-Amz-Signature=5af7d4b34ee9cb4c2fe21d743b0eb5feca53819c7f4ddb60dd738aeb8de0b5ae&X-Amz-SignedHeaders=host"></td>
-    <td style="text-align:center;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106470291/373028725-472727c8-03f1-400b-a60c-8d8bb38879db.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T204452Z&X-Amz-Expires=300&X-Amz-Signature=23e352855cb0d045bce0ea76e05a6094a9ee7b146888cc750fc7a4f028f02d65&X-Amz-SignedHeaders=host"></td>
-  </tr>
+<img width="145" height="306" alt="Image" src="https://github.com/user-attachments/assets/000fcae6-b385-4c67-bb74-d03c5c7e4d2e" />
+
+<img width="146" height="305" alt="Image" src="https://github.com/user-attachments/assets/d6bb8f4a-73fc-473f-a5c1-dd18fd2d8873" />
+
+<img width="146" height="309" alt="Image" src="https://github.com/user-attachments/assets/b3a229a3-5026-4b62-9f1e-f256038746a9" />
+
+<img width="146" height="306" alt="Image" src="https://github.com/user-attachments/assets/7878d9c9-e853-4724-9b43-61481ae32bf3" />
+
+<img width="141" height="299" alt="Image" src="https://github.com/user-attachments/assets/9c9d53a7-c288-4a67-9326-51b02333bb4b" />
+
+<img width="146" height="308" alt="Image" src="https://github.com/user-attachments/assets/cac271e1-4a71-42a6-b806-c7bfbf965ecf" />
 
 
 </table>
@@ -88,7 +107,7 @@ BLABLA...
     <td>
       <strong>😁 Name :</strong> Suhyeon Ahn<br>
       <strong>📧 Email :</strong> saker123456@kookmin.ac.kr<br>
-      <strong>🛠 Role :</strong> Dev leading, app
+      <strong>🛠 Role :</strong> Dev leading
     </td>
     <td>
       <strong>😁 Name :</strong> Minjune Kim<br>
@@ -169,8 +188,7 @@ BLABLA...
 
 <br>
 
-## 6. ETC ... 
-
-
+## 6. Final Presentation ... 
+[그레킹_발표자료.pdf](https://github.com/user-attachments/files/21747572/_.pdf)
 
 
