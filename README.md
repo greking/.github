@@ -9,7 +9,7 @@
 ## Greking 
 
 ## 2024 한국관광공사X카카오 관광데이터 활용 공모전
-<img width="737" height="413" alt="Image" src="https://github.com/user-attachments/assets/ec7db0d4-bf97-489a-9cb1-5c789299b60a" />
+<img width="352" height="461" alt="Image" src="https://github.com/user-attachments/assets/5745e79c-8524-4b4d-afc8-858dc99fba20" />
 
 
 
